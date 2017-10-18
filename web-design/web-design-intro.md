@@ -43,3 +43,6 @@ What is Design?
   - Balance functionality and visual elements, in order to make the system usable and adaptable to the user needs.
 * _User Experience Design_: "incorporates aspects of psychology, anthropology, sociology, computer science, graphic design, industrial design and cognitive science".
   - Create useful, simple and "imperceptible" interactions between the user and the product.
+
+Resources:
+* http://www.uxbooth.com/articles/complete-beginners-guide-to-interaction-design/
