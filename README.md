@@ -1,2 +1,2 @@
-# annotations
-Miscellaneous annotations (Design, Technologies, ...)
+# Annotations
+Miscellaneous notes about design, tools, libraries, programming languages...
