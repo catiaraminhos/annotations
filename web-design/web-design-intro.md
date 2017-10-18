@@ -41,5 +41,5 @@ What is Design?
 * Goal: Help people to experience and to manipulate software and interfaces, to achieve their desires and needs.
 * _User Interface Design_: user interaction must be the simplest and the most efficient as possible (emphasys on goals and finishing tasks).
   - Balance functionality and visual elements, in order to make the system usable and adaptable to the user needs.
-* _User Experience Design_: involves psychology, anthropology, sociology, computer sciences, graphic desing, industrail desing and cognitive sciences.
+* _User Experience Design_: "incorporates aspects of psychology, anthropology, sociology, computer science, graphic design, industrial design and cognitive science".
   - Create useful, simple and "imperceptible" interactions between the user and the product.
