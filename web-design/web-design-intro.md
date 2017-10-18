@@ -1,50 +1,45 @@
 Design
 ======
 
-Introdução
+Introduction
 ----------
 
-**Design** é sobre pessoas (e melhorar a sua vida diária)
+**Design** is about people (and improving their daily life)
 
-**Design** é sobre extremos (depois é fácil de lidar com o "meio termo")
+**Design** is about extremes (after that, is easy to deal with the things in the middle)
 
-**Design** é sobre a interacção entre a pessoa e o objecto
+**Design** is about an interaction between a person and an object
 
+Users react positevely when things are clear and understandable; don't include superfluous things. When the design is an extension of us, it is human, it dissolves with human behaviour.
 
-Utilizadores reagem positivamente quando as coisas são claras e compreensíveis; não colocar coisas supérfluas. Quando é uma extensão de nós, é humano, dissolve-se com o comportamento humano.
+Good design is:
+  * innovative
+  * making a product useful
+  * aesthetic
+  * making a product understandable
+  * honest
+  * unobtrusive
+  * long-lasting
+  * thorough down to the last detail (completion, accuracy)
+  * environmentally-friendly
+  * little design as possible (more natural as possible; it should not exist another way to design it)
 
-
-Bom design é:
-
-  * inovador
-  * útil
-  * desenho estético
-  * torna um produto compreensível
-  * honesto
-  * discreto
-  * duradouro
-  * consequente em todos os seus detalhes (completo, minucioso)
-  * amigo do ambiente
-  * o menos design possível (é o mais natural possível, não haveria outra forma de o desenhar)
-
-
-Fases do design:
-
-  1. Olhar para a forma lógica do objecto
-  2. Olhar para o simbolismo e para o conteúdo do objecto (os pequenos rituais, e.g. fazer café)
-  3. Dar um contexto ao objecto (de uma forma mais global)
+Design steps:
+  1. Look to the logic form of the object
+  2. Look to the symbolic meaning and the content of the object (the small rituals, e.g, making coffee)
+  3. Give a context to the object (in a global way)
 
 
-O que é o Design?
+What is Design?
 -----------------
 
-* Um método para resolver problemas físicos ou visuais.
+* A method to solve physic and virtual problems.
 
 
 **Interaction Design**
 
-* Objectivo: Ajudar as pessoas a experienciar e manipular software e interfaces, para atingir as suas necessidades e desejos.
-* _User Interface Design_: tornar a interacção do utilizador o mais simples e eficiente possível (ênfase em objectivos e completar tarefas).
-  - Balancear funcionalidade e elementos visuais, para que o sistema seja usável e adaptável às necessidades do utilizador.
-* _User Experience Design_ incorpora aspectos de psicologia, antropologia, sociologia, ciência da computação, design gráfico, design industrial e ciência cognitiva.
-  - Criar interacções úteis, simples e "imperceptíveis" entre o utilizador e o produto.
+* Goal: Help people to experience and to manipulate software and interfaces, to achieve their desires and needs.
+* _User Interface Design_: user interaction must be the simplest and the most efficient as possible (emphasys on goals and finishing tasks).
+  - Balance functionality and visual elements, in order to make the system usable and adaptable to the user needs.
+* _User Experience Design_: involves psychology, anthropology, sociology, computer sciences, graphic desing, industrail desing and cognitive sciences.
+  - Create useful, simple and "imperceptible" interactions between the user and the product.
