@@ -1,0 +1,71 @@
+Typography
+==========
+
+The emotional response to a content will be different with different typefaces (<https://www.youtube.com/watch?v=X3YDAtcsKmg>).
+
+Parts of a Typography
+---------------------
+
+![Parts of a typography](http://freelancefolder.com/wp-content/uploads/2008/05/1typography-image.jpg)
+Source: <http://freelancefolder.com/typography-essentials-a-getting-started-guide/>
+
+* **Type size** (or Cap Height): overall height (includes capital letters height)
+* **Ascender**: upward tail of some letters (e.g., b, d, h, ...)
+* **Descender**: downward tail of some letters (e.g., q, p, j, ...)
+* **Counter**: whitespace inside some letters (e.g., o, p, ...)
+* **X height**: height (without ascenders and descenders)
+* **Baselines**: "the boundary that the lowest part of the letter rests"
+* **Kerning**: the white space between letters (affects readability)
+* **Leading**: the white space between lines (affects readability)
+
+
+Type alignment
+--------------
+* **Left alignment**: default writing; easy to read text; usually for **body text**.
+  Use cases: Casual letters, unpublished manuscripts and basic paragraph styles.
+* **Center alignment**: to draw attention; usually for **headings or titles**.
+  Use cases: Newspaper headers, book titles and report titles.
+* **Right alignment**: more **professional** (formal) look.
+  Use cases: corporate business letters, address labels, business cards...
+* **Justified alignment**: usually for **newspapers and books**' body text.
+  Note: Be careful with "rivers" of white space (tracking).
+
+
+Type category
+-------------
+* **Serif**: strokes on the ends of the letters. Easy to read for longer pieces (used more for print).
+  Example: Times New Roman.
+* **Sans-serif**: without strokes on the ends of the letters. Used more for screens and more heavily for labelling, headlines and titles.
+* **Script, symbols and decorative**: to create a specific image or message.
+  Examples: for a wedding invitation, a script type; for a child's birthday invitation, a decorative type.
+
+
+Web fonts
+---------
+* Be careful with character set available in the picked font.
+* **Fallback fonts**: used to replace original font, when a character is not available. The fallback font should be similar to the original font.
+* **Numerals**: some fonts have numerals according to the use case, for tables (tabular figures), mixed text (oldstyle figures) and all caps text (lining figures).
+* Don't fake styles and use the proper font versions of bold and italics.
+  Exception: faking small caps when they are not available. Use the bolder weight (when a semi-bold variant is available) to adjust the darkness of the text and give a little extra character space.
+* Learn the HTML entities: <https://www.w3.org/TR/html4/sgml/entities.html#h-24.1>.
+  - Apostrophes are defined as `&rsquo;`, not as quotation mark.
+  - There are different type of dashes:
+    * **Figure dash**; usually not available and the hyphen is used
+	* **En dash**; connection between items, ranges, two competitors or alternatives; &ndash; (`&ndash;`)
+	* **Em dash**; colon-like use, parenthesis-like use, differences in ponctuation, interruption, quotation; &mdash; (`&mdash;`)
+* Text sizes must be defined in `em` in relation to the standard body text size.
+* Types of spaces:
+  - **Figure space**: as wide as a numeral of the typeface (useful for tables)
+  - **Non-breaking space**: ensure that adjacent words will always be on the same line
+  - **Em space**: as wide as the type size
+  - **Ponctuation space**: as wide as the dot or the comma
+  - **Thin spaces**: between the dot and the next letter in abbreviated names
+  - **Hair spaces**: between a dash and the neighboring characters
+* Space between letters < space between words < space between lines
+* Don't increase space between letters in lowercase text
+* Headlines will benefit from tigter tracking (but don't overuse it)
+
+
+Resources:
+* Type classification: <http://justcreative.com/web/type-classification-ebook.pdf>
+* Thinking with type: <https://web.archive.org/web/20161015175942/http://www.thinkingwithtype.com/>
